@@ -40,14 +40,19 @@ se o motivo for por defeito ou queima faça:
 se mesmo assim ela nao apresentar o funcionamento correto ou precisar ser trocada independentemente de defeito ou queima faça:
     obtenha a lampada a ser colocada
     desligue a energia da lampada que será removida através do interruptor
-    pegue uma escada e leve ao local logo abaixo da lampada a ser removida
-    suba na escada
-    se a lampada estiver em temperatura nao prejudicial pegue com a mao e a gire no sentido anti-horario até que se desprenda do bocal
-    desça da escada e reserve a lampada removida em algum lugar seguro
-    pegue a lampada a ser colocada e suba a escada
-    coloque a lampada nmo bocal e gire no sentido horario até que ela encaixe no fundo do bocal
-    desça da escada
-    ligue a energia da lampada que foi colocada através do interruptor para testa-la
+    se a lampada a ser removida estiver em lugar alto faça:
+        pegue uma escada e leve ao local logo abaixo da lampada a ser removida
+        suba na escada
+        se a lampada estiver em temperatura nao prejudicial pegue com a mao e a gire no sentido anti-horario até que se desprenda do bocal
+        desça da escada e reserve a lampada removida em algum lugar seguro
+        pegue a lampada a ser colocada e suba a escada
+        coloque a lampada a ser colocada no bocal e gire no sentido horario até que ela encaixe no fundo do bocal
+        desça da escada
+        ligue a energia da lampada que foi colocada através do interruptor para testa-la
+    se nao a lampada estiver ao alcance das maos faça:
+        se a lampada estiver em temperatura nao prejudicial pegue com a mao e a gire no sentido anti-horario até que se desprenda do bocal
+        reserve a lampada removida em algum lugar seguro
+        coloque a lampada a ser colocada no bocal e gire no sentido horario até que ela encaixe no fundo do bocal
 se funcionou guarde a escada
 se o motivo da troca foi por defeito ou queima descarte a lampada removida
     se nao
