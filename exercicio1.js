@@ -1,4 +1,4 @@
-// Item 1
+// 1 - Crie uma seqüência lógica para ir ao mercado.
 
 /*
 colocar o sapato
@@ -12,7 +12,7 @@ caminhar até o mercado
 
 
 
-// Item 2
+// 2 - Faça um algoritmo para somar dois números.
 
 var a = Math.random()
 console.log(a)
@@ -23,7 +23,7 @@ console.log("a soma é", + c)
 
 
 
-// Item 3
+// 3 - Faça um algoritmo para trocar uma lâmpada. Descreva com detalhes.
 
 /*
 obtenha uma lampada extra
