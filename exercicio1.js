@@ -35,7 +35,8 @@ se o motivo for por defeito ou queima faça:
         verifique se está chegando energia até a mesma
     se a lampada estiver ao alcance das maos use uma ferramenta para medir a tensao que chega ao bocal
         se nao
-            se for necessario subir use uma escada
+        se for necessario subir use uma escada
+    se funcionar nao troque a lampada
 se mesmo assim ela nao apresentar o funcionamento correto ou precisar ser trocada independentemente de defeito ou queima faça:
     obtenha a lampada a ser colocada
     desligue a energia da lampada que será removida através do interruptor
