@@ -6,7 +6,7 @@ Var
    soma: real
 
 Inicio
-      escreval ("Deixando em branco corresponde a 0")
+      escreval ("Utilize números diferentes de zero")
    repita
       escreva ("digite um número ")
       leia (numX)
