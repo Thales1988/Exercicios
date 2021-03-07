@@ -1,0 +1,16 @@
+->->->item 3: Qual a diferença entre variáveis e constantes? Explique com exemplos (não precisa colocar algoritmo, apenas explicação em texto).
+
+variaveis podem sofrer alteraçoes
+como uma nota de um aluno que poderia ser usada em cálculos ou uma data que pode ser alterada ou até um nome
+
+já constantes nao podem sofrer alteraçoes....com o PI que pode ser usado em calculos por exemplo mas sempre manterá seu valor fixo para ser usado
+__________________________________________________________________________________________________________________________________________________
+
+->->->item 4: Qual é o tipo de dado que aceita números quebrados?
+
+variavel do tipo real...pois aceita casas decimais
+__________________________________________________________________________________________________________________________________________________
+
+->->->item 5: Qual é o tipo de dado que aceita apenas valores lógicos?
+
+boolean (ou em portugol...logico)...que apenas verifica se uma logica é verdadeira ou falsa...true ou false 
