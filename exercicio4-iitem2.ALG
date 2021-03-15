@@ -5,6 +5,7 @@ Var
 
 Inicio
 
+
    para mult de 0 ate 100 faca
       se (mult % 10 = 0) entao
          escreva (mult)
