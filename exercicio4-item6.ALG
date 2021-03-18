@@ -4,7 +4,7 @@ Var
    n: vetor [0..4] de inteiro
    i: inteiro
    media: real
-   soma, divCinco, contNulo, par: inteiro
+   divCinco, soma, contNulo, par: inteiro
 Inicio
 
    para i de 0 ate 4 faca
