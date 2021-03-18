@@ -1,7 +1,6 @@
 Algoritmo "MediaSomaDivNuloPar"
 
 Var
-
    n: vetor [0..4] de inteiro
    i: inteiro
    media: real
@@ -36,7 +35,6 @@ Inicio
       fimse
    fimpara
    escreval ("São nulos ", contNulo, " números")
-
 
    para i de 0 ate 4 faca
       se (n[i]%2=0) entao
